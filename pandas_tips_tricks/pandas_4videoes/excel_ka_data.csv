@@ -1,0 +1,1 @@
+,df.groupby('sex').head(),#,groupby,sex,column,and,show,first,5,rows,of,df
